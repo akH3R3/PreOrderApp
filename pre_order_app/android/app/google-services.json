@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664737093200",
+    "project_id": "preorderapp-e0805",
+    "storage_bucket": "preorderapp-e0805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664737093200:android:cd5596ea3d4ff90d3ce355",
+        "android_client_info": {
+          "package_name": "com.preorder.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEUk8wKO1Z4X4i9RIqi5qUfeXm6PuDFD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

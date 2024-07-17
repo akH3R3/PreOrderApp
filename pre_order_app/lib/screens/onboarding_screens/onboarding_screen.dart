@@ -39,7 +39,7 @@ class _OnBoardingScreenState extends State<OnBoardingScreen> {
                     ),
                     const SizedBox(height: 10),
                     const Text(
-                      'Welcome to ApnaBazar!',
+                      'Welcome to PreOrder!',
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 24,
@@ -49,7 +49,7 @@ class _OnBoardingScreenState extends State<OnBoardingScreen> {
                     const Padding(
                       padding: EdgeInsets.symmetric(horizontal: 30, vertical: 10),
                       child: Text(
-                        'Discover the products you want in your daily life.',
+                        'Discover the latest products in market.',
                         textAlign: TextAlign.center,
                         style: TextStyle(
                           color: Colors.white,
